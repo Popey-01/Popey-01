@@ -1,4 +1,4 @@
-![Cover](https://github.com/Esio-01/Esio-01/blob/main/Ma%20vid%C3%A9o8.gif)
+![Cover](https://github.com/Esio-01/Esio-01/blob/main/background.gif)
 
 ----
 
