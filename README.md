@@ -24,6 +24,6 @@
 - html
 - css
 
-Since 2018
+Depuis 2018
 
 ----
