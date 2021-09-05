@@ -1,4 +1,4 @@
-![Cover](https://github.com/Esio-01/Esio-01/blob/main/background.gif)
+![Cover](https://media.discordapp.net/attachments/633782210238873612/884153478556028938/unknown.png?width=1153&height=630)
 
 ----
 
