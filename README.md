@@ -21,9 +21,7 @@
 🖥 Developpeur:
 
 - php
-- html
-- css
-
-Depuis 2018
+- html/css
+- python
 
 ----
