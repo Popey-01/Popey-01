@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://media.discordapp.net/attachments/633782210238873612/882297122450448414/PTW9.gif?width=1120&height=630"></img>
+    <img src="https://github.com/Esio-01/Esio-01/blob/main/96d19e14ccbfdca44c2e6e48550c9c84.jpg"></img>
 </p>
 
 ----
