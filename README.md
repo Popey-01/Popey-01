@@ -16,7 +16,7 @@
   <br><br>
   <a href="https://www.youtube.com/channel/UCzsusjBbGdgrkqf4dncy6oA">🎥 Suscribe my YouTube chanel 🎥</a>
   <br><br>
-  <a href="https://www.youtube.com/channel/UCzsusjBbGdgrkqf4dncy6oA">🛒 Shop on telegram 🛒</a>
+  <a href="https://t.me/EsioShop">🛒 Shop on telegram 🛒</a>
 </p>
 <br>
 
