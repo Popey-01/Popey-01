@@ -15,6 +15,8 @@
   <a href="https://discord.gg/mqTMA2Wuj2">✨ Join my Discord server ✨</a>
   <br><br>
   <a href="https://www.youtube.com/channel/UCzsusjBbGdgrkqf4dncy6oA">🎥 Suscribe my YouTube chanel 🎥</a>
+  <br><br>
+  <a href="https://www.youtube.com/channel/UCzsusjBbGdgrkqf4dncy6oA">🛒 Shop on telegram 🛒</a>
 </p>
 <br>
 
