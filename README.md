@@ -1,6 +1,6 @@
-<p align="center">
-    <img src="https://github.com/Esio-01/Esio-01/blob/main/96d19e14ccbfdca44c2e6e48550c9c84.jpg"></img>
-</p>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Esio-01&count_private=true&show_icons=true&theme=radical)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Esio-01&show_icons=true&theme=radical)
+
 
 ----
 
@@ -25,8 +25,10 @@
 <h2>📚 About me</h2>
 🖥 Developpeur:
 
-- php
-- html/css
-- python
+![Php](https://img.shields.io/badge/-PHP-purple?logo=php&logoColor=white)
+![Html](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff)
+![Css](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-yellow?logo=python&logoColor=fff)
+![Java](https://img.shields.io/badge/-Java-black?logo=java&logoColor=fff)
 
 ----
