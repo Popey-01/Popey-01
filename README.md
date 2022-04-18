@@ -16,6 +16,8 @@
   <br><br>
   <a href="https://www.youtube.com/channel/UCzsusjBbGdgrkqf4dncy6oA">🎥 Suscribe my YouTube chanel 🎥</a>
   <br><br>
+  <a href="https://t.me/onyx_organization">✈️ Onyx on Telegram ✈️</a>
+  <br><br>
   <a href="https://t.me/EsioShop">🛒 Shop on telegram 🛒</a>
 </p>
 <br>
