@@ -8,7 +8,7 @@
 <h1 align="center">🔎 Follow me !</h1>
 <br><br>
 <p align="center">
-  <img style="display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://discord.c99.nl/widget/theme-3/489140964125048872.png">
+  <img style="display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://discord.c99.nl/widget/theme-2/965179056477839440.png">
 </p>
 <br>
 <p align="center">
