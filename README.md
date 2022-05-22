@@ -30,7 +30,8 @@
 ![Php](https://img.shields.io/badge/-PHP-purple?logo=php&logoColor=white)
 ![Html](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff)
 ![Css](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=fff)
-![Python](https://img.shields.io/badge/-Python-yellow?logo=python&logoColor=fff)
-![Java](https://img.shields.io/badge/-Java-black?logo=java&logoColor=fff)
+![Sass](https://img.shields.io/badge/-Sass-red?logo=sass&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-black?logo=python&logoColor=fff)
 
 ----
