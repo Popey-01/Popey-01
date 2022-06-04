@@ -25,6 +25,7 @@
 ----
 
 <h2>📚 About me</h2>
+Passioné par le développement/sécurité informatique et la télécomunication.
 🖥 Developer:
 
 ![Php](https://img.shields.io/badge/-PHP-purple?logo=php&logoColor=white)
