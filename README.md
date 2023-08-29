@@ -34,7 +34,7 @@ Passioné par le développement/sécurité informatique et la télécomunication
 ![Html](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff)
 ![Css](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=fff)
 ![Sass](https://img.shields.io/badge/-Sass-red?logo=sass&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-Json-yellow?logo=javascript&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-black?logo=python&logoColor=fff)
 
 ----
