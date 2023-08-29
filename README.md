@@ -38,3 +38,8 @@ Passioné par le développement/sécurité informatique et la télécomunication
 ![Python](https://img.shields.io/badge/-Python-black?logo=python&logoColor=fff)
 
 ----
+
+<p align="center"> 
+  Compteur de visites<br>
+  <img src="https://profile-counter.glitch.me/Popey-01/count.svg"/>
+</p>
